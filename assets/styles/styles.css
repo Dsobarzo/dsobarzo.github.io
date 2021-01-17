@@ -1,0 +1,16 @@
+
+.CV{
+    text-align: center;
+}
+.ti{
+    text-align: center;
+    color:aqua;
+}
+.down{
+    text-align: center;
+    color:white;
+}
+.bdy{
+    background: rgb(2,0,36);
+    background: linear-gradient(79deg, rgba(2,0,36,1) 0%, rgba(73,78,166,1) 55%, rgba(0,212,255,1) 100%); 
+}
