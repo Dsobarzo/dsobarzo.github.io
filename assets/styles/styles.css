@@ -6,11 +6,22 @@
     text-align: center;
     color:aqua;
 }
-.down{
-    text-align: center;
-    color:white;
-}
 .bdy{
     background: rgb(2,0,36);
     background: linear-gradient(79deg, rgba(2,0,36,1) 0%, rgba(73,78,166,1) 55%, rgba(0,212,255,1) 100%); 
 }
+.button { 
+	display: inline-block; 
+	padding: 20px 30px;
+	color: white;
+	position: bottom;
+	top: 100%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	vertical-align: middle;
+	font-family: 'Rubik One', sans-serif;
+	text-decoration: none;
+	font-size: 2vw;
+	transition: all .9s;
+    background-color: #3498db;
+   
