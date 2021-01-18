@@ -14,7 +14,6 @@
 	display: inline-block; 
 	padding: 20px 30px;
 	color: white;
-	position: bottom;
 	top: 100%;
 	left: 50%;
 	transform: translate(-50%, -50%);
@@ -31,7 +30,6 @@
     display: inline-block; 
     padding: 20px 30px;
     color: white;
-    position: left bottom;
     top: 100%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -39,6 +37,6 @@
     font-family: 'Rubik One', sans-serif;
     text-decoration: none;
     font-size: 2vw;
-    transition: all .9s;
+    transition: all .09s;
     background-color: #3498db;
 }
